@@ -12,7 +12,7 @@ const defaultConfig = {
 const defaultShades = {
   // Background + text are the key co'ors
   background: '#1e222a',
-  text: '#7d888d',
+  text: '#766d87',
 }
 
 /**
