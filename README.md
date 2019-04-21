@@ -2,7 +2,7 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/itsjonq.outrunner.svg)](https://marketplace.visualstudio.com/items?itemName=itsjonq.outrunner)
 
-> A series of VSCode themes based on Dark+
+> A radical theme for VS Code
 
 ## Generate
 

@@ -1,23 +1,23 @@
 {
-  "name": "dark-refined",
-  "displayName": "Dark Refined",
-  "description": "A series of VSCode themes based on Dark+",
-  "version": "0.0.11",
+  "name": "outrunner",
+  "displayName": "Outrunner",
+  "description": "A radical theme for VS Code",
+  "version": "0.0.0",
   "publisher": "itsjonq",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/itsjonq/dark-refined"
+    "url": "https://github.com/itsjonq/outrunner"
   },
   "keywords": [
-    "Dark+",
-    "Dark plus",
-    "Dark One",
-    "Dark Theme",
-    "Dracula",
-    "refined",
-    "One",
-    "default",
+    "Dark",
+    "outrun",
+    "outrunner",
+    "purple",
+    "pink",
+    "teal",
+    "cyan",
+    "blue",
     "Theme"
   ],
   "scripts": {
@@ -29,7 +29,7 @@
     "release": "vsce publish && npm run git:push"
   },
   "galleryBanner": {
-    "color": "#1e222a",
+    "color": "#0d0221",
     "theme": "dark"
   },
   "engines": {
@@ -44,7 +44,7 @@
       {
         "label": "Outrunner",
         "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-outrunner.json"
+        "path": "./themes/outrunner-theme-outrunner.json"
       }
     ]
   },

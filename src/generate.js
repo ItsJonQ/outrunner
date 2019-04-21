@@ -7,7 +7,7 @@ const pkg = require('../package.json')
 const generateColorTheme = require('./generateColorScheme')
 const { isDark } = require('./utils')
 
-const baseThemeName = 'refined'
+const baseThemeName = 'outrunner'
 
 // Paths
 const themePath = path.resolve(__dirname, './themes/*.js')
