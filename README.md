@@ -1,12 +1,8 @@
-# 🔸 Dark Refined
+# 🕶 Outrunner
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/itsjonq.dark-refined.svg)](https://marketplace.visualstudio.com/items?itemName=itsjonq.dark-refined)
+[![Version](https://vsmarketplacebadge.apphb.com/version/itsjonq.outrunner.svg)](https://marketplace.visualstudio.com/items?itemName=itsjonq.outrunner)
 
 > A series of VSCode themes based on Dark+
-
-## Preview
-
-![Default](https://raw.githubusercontent.com/ItsJonQ/dark-refined/master/images/refined-default.jpg)
 
 ## Generate
 

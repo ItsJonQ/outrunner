@@ -42,64 +42,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Refined (Charcoal)",
+        "label": "Outrunner",
         "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-charcoal.json"
-      },
-      {
-        "label": "Refined (Default)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-default.json"
-      },
-      {
-        "label": "Refined (Dracula)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-dracula.json"
-      },
-      {
-        "label": "Refined (Espresso)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-espresso.json"
-      },
-      {
-        "label": "Refined (Matcha)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-matcha.json"
-      },
-      {
-        "label": "Refined (Mocha)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-mocha.json"
-      },
-      {
-        "label": "Refined (Night Owl)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-night-owl.json"
-      },
-      {
-        "label": "Refined (Oceanic Next)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-oceanic-next.json"
-      },
-      {
-        "label": "Refined (One)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-one.json"
-      },
-      {
-        "label": "Refined (Palenight)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-palenight.json"
-      },
-      {
-        "label": "Refined (Purple)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-purple.json"
-      },
-      {
-        "label": "Refined (Slate)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/refined-theme-slate.json"
+        "path": "./themes/outrunner.json"
       }
     ]
   },
