@@ -1,9 +1,9 @@
-const defaultColors = require('./colors/refined')
+const defaultColors = require('./colors/default')
 const { getButtonColors, getShades, getTerminalColors } = require('./utils')
 
 // Sensible defaults
 const defaultConfig = {
-  name: 'Refined',
+  name: 'Outrunner',
   type: 'Dark',
   fontStyle: '',
   isMono: false,
@@ -29,7 +29,7 @@ function generateColorScheme(
     config: defaultConfig,
     shades: defaultShades,
     colors: defaultColors,
-  },
+  }
 ) {
   const config = { ...defaultConfig, ...options.config }
   const shades = { ...defaultShades, ...options.shades }

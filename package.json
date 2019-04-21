@@ -44,7 +44,7 @@
       {
         "label": "Outrunner",
         "uiTheme": "vs-dark",
-        "path": "./themes/outrunner.json"
+        "path": "./themes/refined-theme-outrunner.json"
       }
     ]
   },
